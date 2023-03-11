@@ -14,8 +14,8 @@
 - :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/suthinan-musitmani)**
 - 📫 Reach me at **suthinan.musitmani@gmail.com**
 - 📝 I studied at King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
-- 💬 Ask me about: anything, I am happy to help
-- ![Profile Views](https://komarev.com/ghpvc/?username=potaesm&style=flat-square)
+
+![Profile Views](https://komarev.com/ghpvc/?username=potaesm&style=flat-square)
 
 <br/><br/>
 
