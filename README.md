@@ -35,14 +35,8 @@
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=potaesm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 
-### 🔥 Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=potaesm&theme=tokyonight)
+### 🔥 Streak and Contribution Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=potaesm&theme=tokyonight)&nbsp;![Contribution Stats](https://github-readme-activity-graph.cyclic.app/graph/?username=potaesm&bg_color=1A1A28&color=00C1AF&line=6A9EFF&point=FFFFFF&hide_border=true)
 
-### 📊 Contribution Stats
-![Contribution Stats](https://github-readme-activity-graph.cyclic.app/graph/?username=potaesm&bg_color=1A1A28&color=00C1AF&line=6A9EFF&point=FFFFFF&hide_border=true)
-
-### 🎧 What I'm Listening To
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
 
 ------
