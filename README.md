@@ -1,4 +1,4 @@
-<img align="right" height="270px" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+<img align="right" height="320px" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
  
 ### Hi there 👋 I am Suthinan Musitmani aka potaesm
 
