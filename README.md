@@ -13,7 +13,7 @@
 - 💬 Ask me about: anything, I am happy to help
 - ![Profile Views](https://komarev.com/ghpvc/?username=potaesm&style=flat-square)
 
-<br><br>
+------
 
 ## 🛠️ My Skills
 ### Programming languages:&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript&logoColor=007ACC)&nbsp;![GO](https://img.shields.io/badge/-GO-05122A?&logo=Go)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?&logo=openjdk)&nbsp;![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp)&nbsp;![C++](https://img.shields.io/badge/-C%2B%2B-05122A?&logo=c%2B%2B)&nbsp;![C](https://img.shields.io/badge/-C-05122A?&logo=c)
@@ -35,8 +35,10 @@
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=potaesm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 
-### 🔥 Streak and Contribution Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=potaesm&theme=tokyonight)&nbsp;![Contribution Stats](https://github-readme-activity-graph.cyclic.app/graph/?username=potaesm&bg_color=1A1A28&color=00C1AF&line=6A9EFF&point=FFFFFF&hide_border=true)
+### 🔥 Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=potaesm&theme=tokyonight)
 
+### 📊 Contribution Stats
+![Contribution Stats](https://github-readme-activity-graph.cyclic.app/graph/?username=potaesm&bg_color=1A1A28&color=00C1AF&line=6A9EFF&point=FFFFFF&hide_border=true)
 
 ------
