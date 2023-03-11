@@ -15,6 +15,8 @@
 - 📫 Reach me at **suthinan.musitmani@gmail.com**
 - 📝 I studied at King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=potaesm&style=flat-square)
 
 <br/><br/>
