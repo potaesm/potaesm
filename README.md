@@ -41,10 +41,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?theme=algolia&include_all_commits=true&count_private=true&username=potaesm&show_icons=true)
 
 
-### 🔥 Streak Stats
+### 🔥 Streak and Contribution Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=potaesm&theme=tokyonight)
-
-### 📊 Contribution Stats
+<br/>
 ![Contribution Stats](https://github-readme-activity-graph.cyclic.app/graph/?username=potaesm&bg_color=1A1A28&color=00C1AF&line=6A9EFF&point=FFFFFF&hide_border=true)
 
 ------
