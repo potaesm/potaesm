@@ -1,5 +1,8 @@
 <object data="" type="">
- <img align="right" height="320px" alt="" src="https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
+ <picture>
+   <source media="(min-width:700px)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+   <img align="right" height="320px" alt="" src="" />
+ </picture>
 </object>
 
 [//]: # (<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />)
