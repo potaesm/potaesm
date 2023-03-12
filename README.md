@@ -19,7 +19,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=potaesm&style=flat-square)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## 🛠️ My Skills
 ### Programming languages:&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript&logoColor=007ACC)&nbsp;![GO](https://img.shields.io/badge/-GO-05122A?&logo=Go)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?&logo=openjdk)&nbsp;![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp)&nbsp;![C++](https://img.shields.io/badge/-C%2B%2B-05122A?&logo=c%2B%2B)&nbsp;![C](https://img.shields.io/badge/-C-05122A?&logo=c)
