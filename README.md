@@ -36,7 +36,7 @@
 
 ## 📈 My GitHub Stats and Activities
 ### 💻 Profile Stats
-![Programming Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=potaesm&layout=compact&langs_count=10&theme=algolia)
+![Programming Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=potaesm&layout=compact&langs_count=10&theme=algolia&hide_progress=true)
 <br/>
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=potaesm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
