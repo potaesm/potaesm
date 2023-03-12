@@ -1,6 +1,6 @@
 <object data="" type="">
  <picture>
-   <source media="(min-width:320px)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+   <source media="(min-width:150px)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=7cf2qh88c1fwcsu07r6bmub2t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
    <img align="right" height="320px" alt="" src="" />
  </picture>
 </object>
