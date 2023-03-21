@@ -14,7 +14,7 @@
 - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/suthinan-musitmani)** and **[Facebook](https://www.facebook.com/potae.sm)**
 - 📫 Reach me at **suthinan.musitmani@gmail.com**
 - 📝 I studied at King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
-- 📄 Read my **[Portfolio](https://portfolio.potaesm.tk)**
+- 📄 Read my **[portfolio](https://portfolio.potaesm.tk)**
 
 <br/>
 
