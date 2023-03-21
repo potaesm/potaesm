@@ -11,9 +11,10 @@
 <br/>
 
 - 🌱 I'm currently studying for M.Tech in Computer Science & Engineering at National Institute of Technology Hamirpur (NITH), India
-- :computer: Connect with me on **[LinkedIn](https://www.linkedin.com/in/suthinan-musitmani)**
+- 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/suthinan-musitmani)** and **[Facebook](https://www.facebook.com/potae.sm)**
 - 📫 Reach me at **suthinan.musitmani@gmail.com**
 - 📝 I studied at King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
+- 📄 Read my **[Portfolio](https://portfolio.potaesm.tk)**
 
 <br/>
 
