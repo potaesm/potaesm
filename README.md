@@ -34,17 +34,4 @@
 ### Databases:&nbsp;![MongoDB](https://img.shields.io/badge/-Firebase-05122A?&logo=google-cloud)&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?&logo=PostgreSQL)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL)&nbsp;![MS SQL](https://img.shields.io/badge/-MS%20SQL-05122A?&logo=microsoft-sql-server)
 
 ### DevOps:&nbsp;![Nginx](https://img.shields.io/badge/-Nginx-05122A?&logo=Nginx)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)&nbsp;![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?&logo=rabbitmq)&nbsp;![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?&logo=azure-devops)&nbsp;![Azure](https://img.shields.io/badge/-Azure-05122A?&logo=microsoft-azure)&nbsp;![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=amazonaws)&nbsp;![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?&logo=Cloudflare)&nbsp;![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?&logo=GitHub)&nbsp;![Render](https://img.shields.io/badge/-Render-05122A?&logo=Render)&nbsp;![Railway](https://img.shields.io/badge/-Railway-05122A?&logo=Railway)&nbsp;![Heroku](https://img.shields.io/badge/-Heroku-05122A?&logo=Heroku)&nbsp;![Netlify](https://img.shields.io/badge/-Netlify-05122A?&logo=netlify)
-
-[//]: # ## 📈 My GitHub Stats
-[//]: # ### 💻 Profile Stats
-[//]: # ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=10&hide_progress=true&username=potaesm&theme=algolia)
-[//]: # <br/>
-[//]: # ![GitHub Stats](https://github-readme-stats.vercel.app/api?theme=algolia&include_all_commits=true&count_private=true&username=potaesm&show_icons=true)
-
-
-[//]: # ### 🔥 Streak and Contribution Stats
-[//]: # ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=potaesm&theme=tokyonight)
-[//]: # <br/>
-[//]: # ![Contribution Stats](https://github-readme-activity-graph.cyclic.app/graph/?username=potaesm&bg_color=1A1A28&color=00C1AF&line=6A9EFF&point=FFFFFF&hide_border=true)
-
 ------
