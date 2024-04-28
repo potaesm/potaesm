@@ -13,7 +13,7 @@
 - 💻 Connect with me on **[LinkedIn](https://www.linkedin.com/in/suthinan-musitmani)** and **[Facebook](https://www.facebook.com/potae.sm)**
 - 📫 Reach me at **suthinan.musitmani@gmail.com**
 - 📝 I studied at King Mongkut’s University of Technology Thonburi (KMUTT), Thailand, and National Institute of Technology Hamirpur (NITH), India
-- 📄 Read my **[portfolio](https://suthinan-m-portfolio.onrender.com/)**
+- 📄 Read my **[portfolio](https://portfolio.potaesm.site/)**
 
 <br/>
 
